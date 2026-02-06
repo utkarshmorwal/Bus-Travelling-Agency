@@ -7,15 +7,15 @@ A console-based bus booking system built for **learning and practice** using **J
 
 BusTravellingAgency/
 ├─ src/
-│  ├─ BusTravellingAgency.java
-│  ├─ DAO/
-│  │  ├─ BusDao.java
-│  │  └─ PassangerDao.java
-│  ├─ DriverConnection/
-│  │  └─ DriverConnection.java
-│  └─ UI/
-│     ├─ Bus.java
-│     └─ Passanger.java
+│ ├─ BusTravellingAgency.java
+│ ├─ DAO/
+│ │ ├─ BusDao.java
+│ │ └─ PassangerDao.java
+│ ├─ DriverConnection/
+│ │ └─ DriverConnection.java
+│ └─ UI/
+│ ├─ Bus.java
+│ └─ Passanger.java
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
