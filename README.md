@@ -5,20 +5,7 @@ Bus Travelling Agency – Java JDBC Project A fun, console-based bus booking sys
 
 A console-based bus booking system built for **learning and practice** using **Java and JDBC** with **MySQL**.
 
-BusTravellingAgency/
-├─ src/
-│ ├─ BusTravellingAgency.java
-│ ├─ DAO/
-│ │ ├─ BusDao.java
-│ │ └─ PassangerDao.java
-│ ├─ DriverConnection/
-│ │ └─ DriverConnection.java
-│ └─ UI/
-│ ├─ Bus.java
-│ └─ Passanger.java
-├─ README.md
-├─ LICENSE
-└─ .gitignore
+<img width="480" height="382" alt="image" src="https://github.com/user-attachments/assets/db7076ab-e19a-4b6a-8bc2-af3cc3ff6ac5" />
 
 ## Features
 
