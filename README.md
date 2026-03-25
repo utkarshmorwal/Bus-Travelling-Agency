@@ -1,7 +1,5 @@
-# Bus-Travelling-Agency
-Bus Travelling Agency – Java JDBC Project A fun, console-based bus booking system built for learning Java and JDBC with MySQL.
-
-# Bus Travelling Agency – Java JDBC Project
+# Bus-Travelling-Agency - Java JDBC Project
+Bus Travelling Agency – A console-based bus booking system built using Java and JDBC to demonstrate database connectivity with MySQL.(Everything you want to learn about Java Database Connectivity)
 
 A console-based bus booking system built for **learning and practice** using **Java and JDBC** with **MySQL**.
 
